@@ -1,5 +1,3 @@
-![Werkbot Explorer](assets/images/cave.png)
-
 ## Werkbot is a creative agency focused on web design and development.
 
 ### Contact Us
