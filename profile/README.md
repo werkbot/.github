@@ -3,5 +3,5 @@
 ### Contact Us
 We would love to hear from you, fill out [this form](https://www.werkbot.com/get-in-touch/) on our website. 
 
-### Interested in an intership?
+### Interested in an internship?
 Please send an email to internship@werkbot.com
